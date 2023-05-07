@@ -1,0 +1,21 @@
+{
+  "name": "poo-js",
+  "version": "1.0.0",
+  "description": "Este es un proyecto hecho con node js",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node --watch main.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "npm"
+  ],
+  "author": "celessud",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
